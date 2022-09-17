@@ -42,6 +42,7 @@ body{
     flex-wrap: wrap;
     margin-top: 50px;
     animation: animate-rotate 10s infinite linear;
+    animation: animate-translate 10s infinite linear;
 }
 .box{
     padding: 10px;
