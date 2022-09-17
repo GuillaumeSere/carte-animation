@@ -206,10 +206,10 @@ body{
 }
 @keyframes animate-rotate {
     from{
-        transform: rotate(0deg) rotateY(180deg);
+        transform: rotate(360deg) rotateY(180deg);
     }
     to{
-        transform: rotate(360deg);
+        transform: rotate(0deg);
     }
 }
 .animation-2{
