@@ -217,10 +217,10 @@ body{
 }
 @keyframes animate-translate {
     0%{
-        transform:rotateY(180deg);
+        transform:rotateY(140deg);
     }
     25%{
-        transform: rotateX(360deg);
+        transform: rotateX(215deg);
     }
 }
 .animation-3{
@@ -228,10 +228,10 @@ body{
 }
 @keyframes animate-rotate {
     0%{
-        transform:rotateY(180deg);
+        transform:rotateY(307deg);
     }
     25%{
-        transform: rotateX(360deg);
+        transform: rotateX(106deg);
     }
 }
 .animation-4{
@@ -239,10 +239,10 @@ body{
 }
 @keyframes animate-rotate2 {
     0%{
-        transform:rotateX(180deg);
+        transform:rotateX(314deg);
     }
     25%{
-        transform: rotateY(360deg);
+        transform: rotateY(107eg);
     }
 }
 
