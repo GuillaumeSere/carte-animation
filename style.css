@@ -7,9 +7,19 @@ body{
     background: url(background.jpg);
     color: black;
 }
+::-webkit-scrollbar{
+    width: 8px;
+}
+::-webkit-scrollbar-track{
+    background: black;
+}
+::-webkit-scrollbar-thumb{
+    background: white;
+    border-radius: 25px;
+}
 .header{
     height:80px;
-    background: black;
+    background: transparent;
     border-bottom: solid 2px white;
 }
 .navbar{
