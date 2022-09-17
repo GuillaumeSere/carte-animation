@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: linear-gradient(90deg, rgba(18,18,19,1) 0%, rgba(65,65,71,1) 44%, rgba(205,214,215,1) 100%);
+    background: url(background.jpg);
     color: black;
 }
 .header{
